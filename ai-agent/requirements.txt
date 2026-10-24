@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+# Optional: only needed if you want the LLM brain (set GEMINI_API_KEY)
+# google-genai
